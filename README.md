@@ -44,7 +44,7 @@ Un juego educativo interactivo para aprender HTML mientras exploras un misterio 
 - HTML5
 - CSS3 (Animaciones, Flexbox, Grid)
 - JavaScript (Web Audio API, localStorage, Cookies)
-- Creadores: Cibils, Carlos - Dentone, Gustao - Ferradans, Leonel
+- Creadores: Cibils, Carlos - Dentone, Gustavo - Ferradans, Leonel
 - GitHub Pages
 
 ## 📦 Instalación
